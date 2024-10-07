@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dmarin-pro
+- 👀 I’m interested in software enginering
+- 🌱 I’m currently working on Samsung Zhilabs
+- 💞️ I’m looking to collaborate on any software projects!
+- 📫 You can reach me on dmarin.profesional@gmail.com
